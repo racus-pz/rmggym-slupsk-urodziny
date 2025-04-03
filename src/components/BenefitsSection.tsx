@@ -9,7 +9,7 @@ const BenefitsSection = () => {
     "Wspólna energia i świetna zabawa!"
   ];
 
-  const registrationUrl = "https://rmggym.pl/wiosna-promo";
+  const registrationUrl = "https://rmggym.pl/slupsk-urodziny";
 
   return (
     <section className="py-40 bg-black">
